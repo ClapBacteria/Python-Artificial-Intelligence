@@ -1,1 +1,1 @@
-# PythonBigdata
+# Python artificial intelligence
